@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science and learning new technologies .I am interested in Android Development and backend development
+I'm currently studying Computer Science and learning new technologies .I am interested in Android Development and Backend Develepment.
 
 
 ## 🌐 Socials:
