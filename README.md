@@ -41,26 +41,3 @@ I'm a Cloud Engineer pursuing a B.Tech in Computer Science with a specialization
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kanishkaagrawal006&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkaagrawal006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kanishkaagrawal006&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanishkaagrawal006&theme=github_dark" alt="Profile summary card"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kanishkaagrawal006&color=blueviolet&style=flat" alt="Visitor Count"/>
-</p>
-
-<p align="center"><i>Proudly created with ❤️ — <a href="https://gprm.itsvg.in">GPRM</a></i></p>
-
