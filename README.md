@@ -52,21 +52,15 @@ I'm a Cloud Engineer pursuing a B.Tech in Computer Science with a specialization
 <img src="https://nirzak-streak-stats.vercel.app/?user=Kanishkaagrawal006&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<!--
-Activity breakdown card (the "compass" chart with Commits/Issues/PRs/Code review %) —
-See setup instructions below to generate this into your own repo.
-Once set up, uncomment and point this at your own hosted SVG, e.g.:
 <p align="center">
-<img src="https://raw.githubusercontent.com/Kanishkaagrawal006/Kanishkaagrawal006/output/github-metrics.svg" alt="Profile summary card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kanishkaagrawal006&theme=github_dark" alt="Profile summary card"/>
 </p>
--->
 
 ---
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Kanishkaagrawal006&icon=0&color=0" alt="Visitor Count"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Kanishkaagrawal006&color=blueviolet&style=flat" alt="Visitor Count"/>
 </p>
 
 <p align="center"><i>Proudly created with ❤️ — <a href="https://gprm.itsvg.in">GPRM</a></i></p>
+
